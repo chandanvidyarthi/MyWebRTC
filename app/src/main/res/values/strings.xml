@@ -4,8 +4,7 @@
     <string name="settings_name" translatable="false">AppRTC Settings</string>
     <string name="disconnect_call">Disconnect Call</string>
     <string name="room_description">
-        Please enter a room name. Room names are shared with everyone, so think
-        of something unique and send it to a friend.
+        Please enter a room id and send it to a friend. Make sure at both end room id should be same.
     </string>
     <string name="favorites">Favorites</string>
     <string name="no_favorites">No favorites</string>
@@ -218,4 +217,5 @@
     <string name="title_activity_sample_data_channel">SampleDataChannelActivity</string>
     <string name="title_activity_socket_io">SocketIOActivity</string>
     <string name="title_activity_complete">CompleteActivity</string>
+    <string name="please_enter_a_room_id">Please enter a room Id</string>
 </resources>
